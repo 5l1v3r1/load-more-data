@@ -1,5 +1,1 @@
-load-more-data/* linguist-documentation
-*.css linguist-vendored
-*.js linguist-vendored
-*.html linguist-vendored
-*.sql linguist-vendored
+*.sql diff
