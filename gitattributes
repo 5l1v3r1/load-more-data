@@ -1,0 +1,4 @@
+load-more-data/* linguist-documentation
+*.css linguist-vendored
+*.js linguist-vendored
+*.html linguist-vendored
