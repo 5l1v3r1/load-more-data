@@ -1,4 +1,5 @@
 load-more-data/* linguist-documentation
+*.tsql linguist-vendored
 *.css linguist-vendored
 *.js linguist-vendored
 *.html linguist-vendored
