@@ -1,1 +1,4 @@
-*.sql diff
+*.css linguist-vendored
+*.js linguist-vendored
+*.sql linguist-vendored
+
